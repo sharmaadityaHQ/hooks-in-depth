@@ -16,6 +16,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://sharmaaditya570191.github.io/hooks-in-depth",
+  "homepage": "https://sharmaaditya570191.github.io/hooks-in-depth/",
   "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
